@@ -15,4 +15,4 @@ O trabalho está dividido em duas partes: análise descritiva e modelagem.
 - Random Forest Classifier
 - Gradient Boosting Classifier
 
-<p align='justify'>Nesses primeiro modelos, não utilizei parâmetros. A partir das métrica Recall, selecionei os dois melhores, e em seguida fiz um GridSearchCV desses dois melhores com alguns parâmetros. Por fim, avaliei os resultados e escolhi o melhor em cada caso. Fiz isso com as três abordagem e por fim um comparativo entre elas. Se tivesse que escolher algum método, seria o smote, uma vez que apresentou as métricas mais interessante. No notebook há mais detalhes, junto do meu raciocínio em cada caso.
+<p align='justify'>Nesses primeiro modelos, não utilizei parâmetros. A partir das métrica Recall, selecionei os dois melhores, e em seguida fiz um GridSearchCV desses dois melhores com alguns parâmetros. Por fim, avaliei os resultados e escolhi o melhor em cada caso. Fiz isso com as três abordagem e por fim um comparativo entre elas. O método escolhido é o smote, uma vez que apresentou as métricas mais interessante. No notebook há mais detalhes, junto do meu raciocínio em cada caso.
