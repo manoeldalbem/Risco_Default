@@ -1,6 +1,6 @@
 # Risco Default
 
-A partir de uma base de dados dos clientes, queremos identificar quem são os bons e maus pagadores.
+<p align='justify'>Uma vez que o crédito na economia brasileira é escasso e representa um custo de oportunidade (mas também essencial para estimular a atividade econômica), uma vez que quem detém recursos pode alocar de diversas formas, principalmente recursos financeiros, os bancos então se preocupam em saber se um possível cliente pode ser bom pagar ou não. O seguinte problema então tem como objetivo, a partir de uma base de dados dos clientes, com algumas informações dos clientes que pegaram crédito, elaborar um modelo que verifique se um cliente pode ser bom ou mau pagador.
 
 O trabalho está dividido em duas partes: análise descritiva e modelagem.
 
